@@ -154,7 +154,7 @@
     "electron-devtools-installer": "^2.2.4",
     "electron-webpack": "git://github.com/fabiospampinato/electron-webpack.git#package-electron-webpack",
     "electron-webpack-ts": "^3.1.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.3",
     "react-hot-loader": "^4.3.5",
     "sass-loader": "^7.1.0",
     "terser-webpack-plugin": "^1.2.0",
